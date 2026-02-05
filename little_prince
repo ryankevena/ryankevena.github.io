@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Little Prince</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <h1>The Little Prince</h1>
+
+  <img src="img/little_prince.png" alt="The Little Prince illustration">
+
+  <p>
+    “It is only with the heart that one can see rightly; what is essential is invisible to the eye.”
+  </p>
+
+  <p>
+    The Little Prince is a famous novella written by Antoine de Saint-Exupéry.
+    It tells the story of a young prince who travels from planet to planet,
+    learning lessons about love, friendship, and human nature.
+  </p>
+
+  <p>
+    <a href="index.html">Back to Home</a>
+  </p>
+
+</body>
+</html>
